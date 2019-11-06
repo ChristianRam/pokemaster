@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.index{
+    background-image: url(../img/index.jpg);
+    background-size: 1500px 650px;
+}
+
